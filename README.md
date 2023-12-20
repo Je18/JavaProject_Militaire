@@ -1,6 +1,6 @@
 ![image](https://github.com/Je18/JavaProject_Militaire/assets/96494194/045e30e1-6600-4486-b2a3-d2acd129a947)
 
-TP Final : MILITAIRE :
+🪖 TP Final : MILITAIRE :
 
 Créer un projet JAVA nommé permettant de gérer une liste de militaires en respectant les principes de conception abordés dans ce cours.
 
